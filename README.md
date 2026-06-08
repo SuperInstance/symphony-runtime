@@ -16,6 +16,8 @@ console.log(`Runtime ready — ν = ${runtime.beatNormalizer.calculateFrequency(
 
 ## Badges
 
+[![npm version](https://img.shields.io/npm/v/@superinstance/symphony-runtime)](https://www.npmjs.com/package/@superinstance/symphony-runtime)
+
 | Metric | Status |
 |--------|--------|
 | **Tests** | ✅ 89/89 passing (56ms) |
