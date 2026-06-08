@@ -1,18 +1,26 @@
 {
   "name": "@superinstance/symphony-runtime",
   "version": "1.0.0",
-  "description": "Formal grammar implementation for cognitive agent orchestration — ν frequencies, ⧁ connections, ▣ artifacts, ℍ/ℂ headspaces, ⟲ symmetry loops, C1–C6 composition rules.",
+  "description": "Cognitive orchestration engine — formal grammar for the Symphony of Shells cognitive DAW with beat normalization, resonance matching, and headspace fusion",
   "main": "src/index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "npx mocha test/",
+    "start": "node src/index.js"
   },
-  "keywords": [],
-  "author": "",
-  "bin": {
-    "symphony": "./src/index.js"
-  },
+  "keywords": [
+    "superinstance",
+    "symphony",
+    "cognitive-architecture",
+    "orchestration",
+    "agent-coordination",
+    "beat-normalizer",
+    "resonance"
+  ],
   "publishConfig": {
     "access": "public"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   },
   "license": "MIT",
   "type": "commonjs",
