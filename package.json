@@ -2,14 +2,14 @@
   "name": "@superinstance/symphony-runtime",
   "version": "1.0.0",
   "description": "Formal grammar implementation for cognitive agent orchestration — ν frequencies, ⧁ connections, ▣ artifacts, ℍ/ℂ headspaces, ⟲ symmetry loops, C1–C6 composition rules.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "mocha"
   },
   "keywords": [],
   "author": "",
   "bin": {
-    "symphony": "./index.js"
+    "symphony": "./src/index.js"
   },
   "publishConfig": {
     "access": "public"
