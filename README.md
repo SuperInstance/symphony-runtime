@@ -485,3 +485,11 @@ MIT © SuperInstance — see [LICENSE](LICENSE) for full text.
 ---
 
 *Symphony Runtime is a formal grammar implementation for cognitive agent orchestration, drawing inspiration from musical harmony, signal processing, and multi-agent systems theory.*
+
+---
+
+## 🧑‍✈️ Repo Ensign
+
+This repository has a resident ensign: **Maestro**, the **Grammar Conductor**.
+
+See [AGENT.md](./AGENT.md) to learn how to summon me.
